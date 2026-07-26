@@ -1,0 +1,21 @@
+
+RETAIL & MARKETING ANALYTICS PROJECT
+EXPLORATORY DATA ANALYSIS REPORT
+================================================================================
+
+Dataset Shape
+-------------
+Rows    : 10,000
+Columns : 46
+
+Business Findings
+-----------------
+• Highest Revenue Category: Electronics (30.4% of revenue)
+• Customer Retention Rate: 96.3%
+• Highest Sales Quarter: Q1
+• Weekend Sales Lift: 0.91%
+• Top 20% Products contribute 27.3% of total revenue.
+
+Generated On
+------------
+24 July 2026 09:40:23

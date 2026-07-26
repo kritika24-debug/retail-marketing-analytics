@@ -1,0 +1,37 @@
+
+================================================================================
+RETAIL & MARKETING ANALYTICS PROJECT
+INITIAL DATA INSPECTION REPORT
+================================================================================
+
+DATASET OVERVIEW
+----------------
+Rows                : 10,000
+Columns             : 19
+Memory Usage (MB)   : 7.32
+
+DATA QUALITY
+------------
+Missing Cells       : 80
+Duplicate Records   : 0
+Complete Records    : 9,921
+
+COLUMN SUMMARY
+--------------
+Numerical Columns   : 7
+Categorical Columns : 12
+Datetime Columns    : 0
+
+NEXT STEPS
+----------
+1. Data Cleaning
+2. Missing Value Treatment
+3. Duplicate Removal
+4. Data Type Conversion
+5. Outlier Detection
+6. Feature Engineering
+
+Report Generated:
+2026-07-24 08:59:18
+
+================================================================================
